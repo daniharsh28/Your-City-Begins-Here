@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficeService", "TrafficeService\TrafficeService.csproj", "{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TrafficeClient", "http://localhost:6655", "{FA45BA8C-CC79-4D93-88BA-198245FAEE2F}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_6655"
+		Debug.AspNetCompiler.PhysicalPath = "TrafficeClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6655\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_6655"
+		Release.AspNetCompiler.PhysicalPath = "TrafficeClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6655\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "TrafficeClient\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA45BA8C-CC79-4D93-88BA-198245FAEE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA45BA8C-CC79-4D93-88BA-198245FAEE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA45BA8C-CC79-4D93-88BA-198245FAEE2F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA45BA8C-CC79-4D93-88BA-198245FAEE2F}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\rushi\documents\visual studio 2013\Projects\WeatherService\WeatherService\bin\WeatherService.dll.config
+c:\users\rushi\documents\visual studio 2013\Projects\WeatherService\WeatherService\bin\WeatherService.dll
+c:\users\rushi\documents\visual studio 2013\Projects\WeatherService\WeatherService\bin\WeatherService.pdb
+c:\users\rushi\documents\visual studio 2013\Projects\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+c:\users\rushi\documents\visual studio 2013\Projects\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+c:\users\rushi\documents\visual studio 2013\Projects\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
+D:\DSOD HW Directory\Homework5\External Services\WeatherService\WeatherService\bin\WeatherService.dll.config
+D:\DSOD HW Directory\Homework5\External Services\WeatherService\WeatherService\bin\WeatherService.dll
+D:\DSOD HW Directory\Homework5\External Services\WeatherService\WeatherService\bin\WeatherService.pdb
+D:\DSOD HW Directory\Homework5\External Services\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\Homework5\External Services\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+D:\DSOD HW Directory\Homework5\External Services\WeatherService\WeatherService\obj\Debug\WeatherService.pdb

@@ -1,0 +1,8 @@
+D:\DSOD HW Directory\Homework5\HW5\HW5\bin\HW5.dll.config
+D:\DSOD HW Directory\Homework5\HW5\HW5\bin\HW5.dll
+D:\DSOD HW Directory\Homework5\HW5\HW5\bin\HW5.pdb
+D:\DSOD HW Directory\Homework5\HW5\HW5\obj\Debug\HW5.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\Homework5\HW5\HW5\obj\Debug\HW5.dll
+D:\DSOD HW Directory\Homework5\HW5\HW5\obj\Debug\HW5.pdb
+D:\DSOD HW Directory\Homework5\HW5\HW5\bin\Newtonsoft.Json.dll
+D:\DSOD HW Directory\Homework5\HW5\HW5\bin\Newtonsoft.Json.xml

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAw4cXad1fLEO5Ks0ohzJWLwAAAAACAAAAAAAQZgAAAAEAACAAAADXvKmTyeW7dcm7+8ZmyO+SM+B2yYhggibGM/Iq18AkRwAAAAAOgAAAAAIAACAAAACWakYXFNHiMuZkZe0TdaufeD4B2f8pZuzu5WiTySKfnBAAAAAQo30CV6m1NnriW7kicimqQAAAAM/LpXOOYRkBZQR2KDnwrIOZrshASBpLPSAX81nZ5tkjHK3Q3l0U/HbWH+zjg1Rmf4SWh5UK7bKicI9ib6NObQQ=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.11.142</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/01/2014 15:20:58</publishTime>
+    </File>
+    <File Include="bin/Wrapper_Theatre.dll">
+      <publishTime>11/07/2014 16:14:54</publishTime>
+    </File>
+    <File Include="bin/Wrapper_Theatre.pdb">
+      <publishTime>11/07/2014 16:14:54</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/01/2014 15:21:14</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/09/2014 19:02:53</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>10/31/2014 16:28:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/07/2014 16:14:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

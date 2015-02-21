@@ -1,0 +1,8 @@
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\bin\Wrapper_Theatre.dll.config
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\bin\Wrapper_Theatre.dll
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\bin\Wrapper_Theatre.pdb
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\obj\Debug\Wrapper_Theatre.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\obj\Debug\Wrapper_Theatre.dll
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\obj\Debug\Wrapper_Theatre.pdb
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\bin\Newtonsoft.Json.dll
+D:\DSOD HW Directory\Wrapper_Theatre\Wrapper_Theatre\bin\Newtonsoft.Json.xml

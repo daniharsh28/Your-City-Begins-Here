@@ -1,0 +1,8 @@
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\bin\NearestHospitals.dll.config
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\bin\NearestHospitals.dll
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\bin\NearestHospitals.pdb
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\obj\Debug\NearestHospitals.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\obj\Debug\NearestHospitals.dll
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\obj\Debug\NearestHospitals.pdb
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\bin\Newtonsoft.Json.dll
+D:\DSOD HW Directory\NearestHospitals\NearestHospitals\bin\Newtonsoft.Json.xml

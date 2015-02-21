@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5", "HW5\HW5.csproj", "{F1CD8F62-E01A-424D-A066-392A6B91A350}"
+	ProjectSection(ProjectDependencies) = postProject
+		{904DE53C-1D99-48BA-B7B3-24D80D0F6785} = {904DE53C-1D99-48BA-B7B3-24D80D0F6785}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearestHospitals", "..\External Services\NearestHospitals\NearestHospitals.csproj", "{1D01EAA3-D10F-4A84-B836-E09869A3B8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFocus", "..\External Services\NewsFocus\NewsFocus.csproj", "{4ACB2C50-4BDF-44E9-BD97-4AF814A4F140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularPlaces", "..\External Services\Popular Places\PopularPlaces\PopularPlaces.csproj", "{EF3F41F2-8CAB-454D-8CC3-0C78F2117075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficeService", "..\External Services\TrafficeService\TrafficeService.csproj", "{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherService", "..\External Services\WeatherService\WeatherService\WeatherService.csproj", "{904DE53C-1D99-48BA-B7B3-24D80D0F6785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CD8F62-E01A-424D-A066-392A6B91A350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CD8F62-E01A-424D-A066-392A6B91A350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CD8F62-E01A-424D-A066-392A6B91A350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CD8F62-E01A-424D-A066-392A6B91A350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D01EAA3-D10F-4A84-B836-E09869A3B8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D01EAA3-D10F-4A84-B836-E09869A3B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D01EAA3-D10F-4A84-B836-E09869A3B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D01EAA3-D10F-4A84-B836-E09869A3B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACB2C50-4BDF-44E9-BD97-4AF814A4F140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACB2C50-4BDF-44E9-BD97-4AF814A4F140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACB2C50-4BDF-44E9-BD97-4AF814A4F140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACB2C50-4BDF-44E9-BD97-4AF814A4F140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3F41F2-8CAB-454D-8CC3-0C78F2117075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3F41F2-8CAB-454D-8CC3-0C78F2117075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3F41F2-8CAB-454D-8CC3-0C78F2117075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3F41F2-8CAB-454D-8CC3-0C78F2117075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E5287F-5F44-4163-8C4D-FB9DDAFEA71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904DE53C-1D99-48BA-B7B3-24D80D0F6785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904DE53C-1D99-48BA-B7B3-24D80D0F6785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904DE53C-1D99-48BA-B7B3-24D80D0F6785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904DE53C-1D99-48BA-B7B3-24D80D0F6785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

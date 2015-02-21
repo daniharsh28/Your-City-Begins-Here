@@ -1,0 +1,15 @@
+D:\DSOD HW Directory\NewsFocus\NewsFocus\obj\Debug\NewsFocus.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\NewsFocus\NewsFocus\bin\NewsFocus.dll.config
+D:\DSOD HW Directory\NewsFocus\NewsFocus\bin\NewsFocus.dll
+D:\DSOD HW Directory\NewsFocus\NewsFocus\bin\NewsFocus.pdb
+D:\DSOD HW Directory\NewsFocus\NewsFocus\obj\Debug\NewsFocus.dll
+D:\DSOD HW Directory\NewsFocus\NewsFocus\obj\Debug\NewsFocus.pdb
+D:\DSOD HW Directory\NewsFocus\NewsFocus\bin\Newtonsoft.Json.dll
+D:\DSOD HW Directory\NewsFocus\NewsFocus\bin\Newtonsoft.Json.xml
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\bin\NewsFocus.dll.config
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\bin\NewsFocus.dll
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\bin\NewsFocus.pdb
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\bin\Newtonsoft.Json.dll
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\obj\Debug\NewsFocus.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\obj\Debug\NewsFocus.dll
+D:\DSOD HW Directory\Homework5\External Services\NewsFocus\obj\Debug\NewsFocus.pdb

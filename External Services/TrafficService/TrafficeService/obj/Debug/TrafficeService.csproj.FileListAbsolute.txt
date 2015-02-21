@@ -1,0 +1,8 @@
+D:\DSOD HW Directory\TrafficeService\TrafficeService\bin\TrafficeService.dll.config
+D:\DSOD HW Directory\TrafficeService\TrafficeService\bin\TrafficeService.dll
+D:\DSOD HW Directory\TrafficeService\TrafficeService\bin\TrafficeService.pdb
+D:\DSOD HW Directory\TrafficeService\TrafficeService\bin\Newtonsoft.Json.dll
+D:\DSOD HW Directory\TrafficeService\TrafficeService\bin\Newtonsoft.Json.xml
+D:\DSOD HW Directory\TrafficeService\TrafficeService\obj\Debug\TrafficeService.csprojResolveAssemblyReference.cache
+D:\DSOD HW Directory\TrafficeService\TrafficeService\obj\Debug\TrafficeService.dll
+D:\DSOD HW Directory\TrafficeService\TrafficeService\obj\Debug\TrafficeService.pdb
