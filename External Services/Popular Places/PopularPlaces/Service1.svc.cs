@@ -32,7 +32,7 @@ namespace PopularPlaces
                     store += storeName[i] + "+";
                 }
             }
-            string url = @"https://maps.googleapis.com/maps/api/place/textsearch/xml?query=tourist+place+in+" + cityName + "&key=AIzaSyAXu5gx5C5nSJxGYqmm4sMOUHzS-Kzrm0Y";
+            string url = @"https://maps.googleapis.com/maps/api/place/textsearch/xml?query=tourist+place+in+" + cityName + "&key";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             WebResponse response = request.GetResponse();
             Stream dataStream = response.GetResponseStream();

@@ -31,7 +31,7 @@ namespace Wrapper_Theatre
                     city += split[k] + "+";
                 
             }
-            string url = @"https://maps.googleapis.com/maps/api/place/textsearch/xml?query=movie+theatre+in+"+city+"&types=movie_theater&key=AIzaSyDEZ11XTH_9GYFuYLLqyENQqdyH77hQ51M";
+            string url = @"https://maps.googleapis.com/maps/api/place/textsearch/xml?query=movie+theatre+in+"+city+"&types=movie_theater&key=";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             WebResponse response = request.GetResponse();
             Stream responseStream = response.GetResponseStream();
@@ -77,7 +77,7 @@ namespace Wrapper_Theatre
                     }
                 }
             }
-            String url1 = @"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json?apikey=ae49kzrqqbnqmc8fmqu32j4h&page=1";
+            String url1 = @"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json?apikey=&page=1";
             HttpWebRequest request1 = (HttpWebRequest)WebRequest.Create(url1);
             WebResponse response1 = request1.GetResponse();
             Stream responseStream1 = response1.GetResponseStream();

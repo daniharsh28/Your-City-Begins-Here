@@ -20,7 +20,7 @@ namespace NearestHospitals
         public Hospitals GetNearestHospitals(String zipcode)
         {
             Hospitals hs = new Hospitals();
-            string url = @"https://maps.googleapis.com/maps/api/place/textsearch/xml?query=hospitals+around+" + zipcode + "&key=AIzaSyDEZ11XTH_9GYFuYLLqyENQqdyH77hQ51M";
+            string url = @"https://maps.googleapis.com/maps/api/place/textsearch/xml?query=hospitals+around+" + zipcode + "&key=";
 
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             WebResponse response = request.GetResponse();

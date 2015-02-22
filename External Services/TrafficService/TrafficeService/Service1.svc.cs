@@ -68,7 +68,7 @@ namespace TrafficeService
             {
                 southwest_lng = data.results[0].geometry.viewport.southwest.lng;
             }
-            String url1 = @"http://www.mapquestapi.com/traffic/v2/incidents?key=Fmjtd%7Cluurn96yn5%2C8l%3Do5-9w8w5r&callback=handleIncidentsResponse&boundingBox="+northeast_lat+","+northeast_lng+","+southwest_lat+","+southwest_lng+"&filters=construction,incidents&inFormat=kvp&outFormat=xml";
+            String url1 = @"http://www.mapquestapi.com/traffic/v2/incidents?key=&callback=handleIncidentsResponse&boundingBox="+northeast_lat+","+northeast_lng+","+southwest_lat+","+southwest_lng+"&filters=construction,incidents&inFormat=kvp&outFormat=xml";
             HttpWebRequest request1 = (HttpWebRequest)WebRequest.Create(url1);
             WebResponse response1 = request1.GetResponse();
             Stream responseStream1 = response1.GetResponseStream();
